@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.example.wish_kotlin"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.wish_kotlin"
