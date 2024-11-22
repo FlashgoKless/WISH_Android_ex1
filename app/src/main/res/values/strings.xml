@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">WISH_Kotlin</string>
+    <string name="app_name">Sum Calculator</string>
+    <string name="hint_number1">Enter the first number</string>
+    <string name="hint_number2">Enter the second number</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="result">Result: %1$.2f</string>
+    <string name="error_message">Please enter both numbers!</string>
 </resources>
